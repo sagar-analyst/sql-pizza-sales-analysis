@@ -41,10 +41,8 @@ The dataset follows a normalized relational structure:
 
 ## 🛠 Tools & Technologies
 - SQL (MySQL)
-- Complex JOIN operations
-- Common Table Expressions (CTEs)
-- Aggregations and grouping
-- Date & time-based analysis
+- Python (Pandas, Matplotlib, Seaborn)
+- Jupyter Notebook
 
 
 ## 🔍 Analysis Approach
@@ -52,6 +50,7 @@ The dataset follows a normalized relational structure:
 - Imported CSV files into a relational database
 - Designed schema with proper relationships
 - Wrote SQL queries to answer business-driven questions
+- Python jupyter notebook for visuals through charts.
 
  ### Performed:
 
